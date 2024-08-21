@@ -11,6 +11,7 @@ body{
   background-color: white;
   padding: 30px 30px;
   font-size: 18px;
+   box-shadow: rgba(16, 5, 12, 0.836) 5px 5px, rgba(16, 5, 12, 0.836) 5px 5px, rgba(16, 5, 12, 0.836) 5px 5px, rgba(16, 5, 12, 0.836) 3px 3px, rgba(16, 5, 12, 0.836) 5px 5px;
 }
 .inner-img{
   text-align: center;
